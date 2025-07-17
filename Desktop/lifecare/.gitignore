@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+AppData/
+*.lnk
+*.zip
+*.pdf
