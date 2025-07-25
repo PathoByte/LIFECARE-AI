@@ -188,3 +188,6 @@ dmypy.json
 
 # Local development files
 .zencoder/
+
+# Ignore the old LIFECARE-AI directory (embedded git repo)
+LIFECARE-AI/
